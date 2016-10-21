@@ -67,5 +67,7 @@ button	{
 	}
 nav	{
 	width: 760px;
+	display: block;
+	margin: auto;
 	}
 </style>
