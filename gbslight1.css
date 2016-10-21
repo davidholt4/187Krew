@@ -1,2 +1,48 @@
-<style>
-</style>
+<style>	
+body	{
+	background-color: #ffffff;
+	background: linear-gradient(to right, #f4f4f4, #ffffff);
+	}
+header	{
+	background: linear-gradient(to right, #00ffbf, #00faff);
+	padding: 25px;
+	width: 760px;
+	display: block;
+	margin: auto;
+	}
+main	{
+	width: 760px;
+	display: block;
+	margin: auto;
+	}
+footer	{
+	width: 760px;
+	display: block;
+	margin: auto;
+	}
+h1	{
+	color: #000000;
+	text-align: center;
+	}
+h2	{
+	color: #00ffbf;
+	text-align: center;
+	}
+h3	{
+	color: #00fc9b;
+	}
+h4	{
+	color: #00ddc3;
+	}
+h5	{
+	}
+h6	{
+	}
+p	{
+	text-align: justify;
+	}
+img	{
+	display: block;
+	margin: auto;
+	}
+			</style>
