@@ -62,5 +62,6 @@ button	{
 	text-align: center;
 	display: block;
 	margin: auto;
+	display: inline-block;
 	}
 </style>
