@@ -62,5 +62,7 @@ button	{
 	text-align: center;
 	display: inline-block;
 	margin: auto;
+	text-decoration: none;
+	background-color: #00ffbf;
 	}
 </style>
