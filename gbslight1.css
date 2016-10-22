@@ -61,13 +61,12 @@ button	{
 	border-radius: 8px;
 	text-align: center;
 	display: inline-block;
-	margin: auto;
 	text-decoration: none;
 	background-color: #00ffbf;
 	}
 nav	{
 	width: 760px;
-	display: block;
-	margin: auto;
+	/*display: block;
+	margin: auto;*/
 	}
 </style>
