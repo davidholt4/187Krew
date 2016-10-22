@@ -13,6 +13,11 @@ header	{
 	display: block;
 	margin: auto;
 	}
+nav	{
+	width: 760px;
+	display: block;
+	margin: auto;
+	}
 main	{
 	width: 760px;
 	display: block;
@@ -65,9 +70,20 @@ button	{
 	text-decoration: none;
 	background-color: #00ffbf;
 	}
-nav	{
-	width: 760px;
+ul 	{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	}
+li 	{
+	float: left;
+/*	display: inline;	*/
 	display: block;
-	margin: auto;
+    	color: white;
+    	text-align: center;
+    	padding: 14px 16px;
+    	text-decoration: none;
 	}
 </style>
