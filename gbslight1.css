@@ -72,7 +72,7 @@ button	{
 	}
 ul 	{
     	list-style-type: none;
-    	margin: 0;
+    	margin: auto;
     	padding: 0;
     	background-color: #FFFFFF;
 	display: block;
