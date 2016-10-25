@@ -81,7 +81,7 @@ ul 	{
 li 	{
 	font-size: 16px;
 	float: left;
-	display: block;
+	display: inline;
     	color: white;
     	text-align: center;
     	padding: 5px 12px;
