@@ -66,6 +66,20 @@ img	{
 	margin: auto;
 	}
 /*	Navigational Stuff:	*/
+a	{
+	font-family: "Lucida Console", Monaco, monospace;
+	}
+a:link:not(li)	{
+	color: #0000ff;
+	text-decoration: none;
+	}
+a:visited:not(li)	{ 
+    	color: #8585ad;
+	text-decoration: none;
+	}
+a:hover:not(li)	{
+	text-decoration: underline;
+	}
 button	{
 	font-size: 12px;
 	height: 20px;
@@ -89,27 +103,14 @@ li 	{
 	}
 li a 	{
     	display: block;
-    	color: white;
+    	color: FFFFFF;
     	text-align: center;
     	padding: 14px 16px;
     	text-decoration: none;
 	}
 li a:hover:not(.active)	{
     	background-color: #111;
-	}
-a	{
-	font-family: "Lucida Console", Monaco, monospace;
-	}
-a:link	{
-	color: #0000ff;
-	text-decoration: none;
-	}
-a:visited	{ 
-    	color: #8585ad;
-	text-decoration: none;
-	}
-a:hover	{
-	text-decoration: underline;
+	color: FFFFFF;
 	}
 /*	Classes:	*/
 .active {
