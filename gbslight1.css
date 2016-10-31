@@ -4,6 +4,9 @@
 /*	   V1.2		*/
 /*----------------------*/
 /*	Misc Tags:	*/
+html	{
+	padding: 15px;
+	}
 body	{
 	background: linear-gradient(to right, #999999, ##e2e2e2); /*IE support*/
 	background: -webkit-linear-gradient(to right, #999999, ##e2e2e2); /*Chrome support*/
