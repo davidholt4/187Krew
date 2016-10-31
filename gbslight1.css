@@ -5,7 +5,8 @@
 /*----------------------*/
 /*	Misc Tags:	*/
 html	{
-	width: max-device-width;
+	padding: 10%;
+	}
 	}
 body	{
 	background: linear-gradient(to right, #999999, ##e2e2e2); /*IE support*/
@@ -95,7 +96,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
+    width: max-device-width;
     background-color: #f1f1f1;
     border: 1px solid #555;
 }
