@@ -3,10 +3,6 @@
 /*	GBS Light 1	*/
 /*	   V1.2		*/
 /*----------------------*/
-@viewport	{
-	width:device-width;
-	zoom: 1.0;
-	}
 /*	Misc Tags:	*/
 body	{
 	background: linear-gradient(to right, #999999, ##e2e2e2); /*IE support*/
