@@ -16,27 +16,19 @@ header	{
 	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
 	background: -webkit-linear-gradient(to right, #00ffbf, #00faff); /*Chrome support*/
 	padding: 15px;
-	max-width: 1000px;
-	min-width: 760px;
 	display: block;
 	margin: auto;
 	}
 nav	{
-	max-width: 1000px;
-	min-width: 760px;
 	display: block;
 	margin: auto;
 	padding: 15px;
 	}
 main	{
-	max-width: 1000px;
-	min-width: 760px;
 	display: block;
 	margin: auto;
 	}
 footer	{
-	max-width: 1000px;
-	min-width: 760px;
 	display: block;
 	margin: auto;
 	}
