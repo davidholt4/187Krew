@@ -109,8 +109,9 @@ li a {
 }
 
 li {
-    text-align: center;
-    border-bottom: 1px solid #555;
+	width: max-device-width;
+    	text-align: center;
+    	border-bottom: 1px solid #555;
 }
 
 li:last-child {
