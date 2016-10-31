@@ -3,6 +3,11 @@
 /*	GBS Light 1	*/
 /*	   V1.2		*/
 /*----------------------*/
+/*	View Port	*/
+@viewport {
+    	width: device-width;
+    	zoom: .5;
+  	}
 /*	Misc Tags:	*/
 body	{
 	background: linear-gradient(to right, #999999, ##e2e2e2); /*IE support*/
@@ -12,23 +17,27 @@ header	{
 	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
 	background: -webkit-linear-gradient(to right, #00ffbf, #00faff); /*Chrome support*/
 	padding: 15px;
-	width: 760px;
+	max-width: 760px;
+	min-width: 300px;
 	display: block;
 	margin: auto;
 	}
 nav	{
 	max-width: 760px;
+	min-width: 300px;
 	display: block;
 	margin: auto;
 	padding: 15px;
 	}
 main	{
 	max-width: 760px;
+	min-width: 300px;
 	display: block;
 	margin: auto;
 	}
 footer	{
 	max-width: 760px;
+	min-width: 300px;
 	display: block;
 	margin: auto;
 	}
