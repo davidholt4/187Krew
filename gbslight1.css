@@ -17,18 +17,18 @@ header	{
 	margin: auto;
 	}
 nav	{
-	width: 760px;
+	max-width: 760px;
 	display: block;
 	margin: auto;
 	padding: 15px;
 	}
 main	{
-	width: 760px;
+	max-width: 760px;
 	display: block;
 	margin: auto;
 	}
 footer	{
-	width: 760px;
+	max-width: 760px;
 	display: block;
 	margin: auto;
 	}
