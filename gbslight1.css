@@ -94,9 +94,10 @@ button	{
 	}
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: max-device-width;
+	width: 70%;
+    margin: auto;
+    padding: auto;
+    display: block;
     background-color: #f1f1f1;
     border: 1px solid #555;
 }
