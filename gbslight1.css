@@ -4,8 +4,9 @@
 /*	   V1.2		*/
 /*----------------------*/
 /*	Misc Tags:	*/
-html	{
-	padding: 15px;
+@media only screen and (max-device-width: 480px){
+	padding: 2px;
+	width: max-device-width;
 	}
 body	{
 	background: linear-gradient(to right, #999999, ##e2e2e2); /*IE support*/
