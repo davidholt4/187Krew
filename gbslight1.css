@@ -18,7 +18,7 @@ header	{
 nav	{
 	display: block;
 	margin: auto;
-	padding: 15px;
+	padding: 0px;
 	}
 main	{
 	display: block;
@@ -109,7 +109,7 @@ li a {
 li {
 	display: block;
 	margin: auto;
-	width: 70%;
+	width: auto;
     	text-align: center;
     	border-bottom: 1px solid #555;
 }
