@@ -15,7 +15,7 @@ header	{
 	display: block;
 	margin: auto;
 	}
-nav	{
+nav:not li	{
 	display: block;
 	margin: auto;
 	max-width: 400px;
@@ -58,7 +58,7 @@ h6	{
 	color: #00ed62;
 	font-size: 109%;
 	}
-p	{
+p:not li{
 	text-indent: 25px;
 	text-align: justify;
 	color: #000000;
@@ -70,7 +70,7 @@ img	{
 	margin: auto;
 	}
 /*	Navigational Stuff:	*/
-a	{
+a:not li	{
 	font-family: "Lucida Console", Monaco, monospace;
 	}
 a:link:not(li)	{
@@ -84,7 +84,7 @@ a:visited:not(li)	{
 a:hover:not(li)	{
 	text-decoration: underline;
 	}
-button	{
+button:not li{
 	font-size: 12px;
 	height: 20px;
 	width: 126px;
