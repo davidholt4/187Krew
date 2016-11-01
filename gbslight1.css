@@ -35,23 +35,28 @@ h1	{
 	color: #000000;
 	text-align: center;
 	font-family: Impact, Charcoal, sans-serif;
-	font-size: 300%;
+	font-size: 400%;
 	}
 h2	{
 	color: #00ffbf;
 	text-align: center;
+	font-size: 350%;
 	}
 h3	{
 	color: #00fc9b;
+	font-size: 300%;
 	}
 h4	{
 	color: #00ddc3;
+	font-size: 250%;
 	}
 h5	{
 	color: #00d87e;
+	font-size: 200%;
 	}
 h6	{
 	color: #00ed62;
+	font-size: 150%;
 	}
 p	{
 	text-indent: 25px;
