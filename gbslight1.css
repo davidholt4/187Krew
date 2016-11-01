@@ -125,17 +125,26 @@ li {
 }
 
 li:last-child {
-    border-bottom: none;
+	max-width: 400px;
+	min-width: 400px;
+	width: 400px;
+    	border-bottom: none;
 }
 
 li a.active {
-    background-color: #4CAF50;
-    color: white;
+	max-width: 400px;
+	min-width: 400px;
+	width: 400px;
+    	background-color: #4CAF50;
+    	color: white;
 }
 
 li a:hover:not(.active) {
-    background-color: #555;
-    color: white;
+	max-width: 400px;
+	min-width: 400px;
+	width: 400px;
+    	background-color: #555;
+    	color: white;
 }
 /*	Classes:	*/
 .active {
