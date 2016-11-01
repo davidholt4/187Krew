@@ -18,9 +18,9 @@ header	{
 nav	{
 	display: block;
 	margin: auto;
-	max-width: 400px;
+	max-width: 2000px;
 	min-width: 400px;
-	width: 400px;
+	width: auto;
 	}
 main	{
 	display: block;
@@ -84,9 +84,6 @@ a:visited:not(li)	{
 a:hover:not(li)	{
 	text-decoration: underline;
 	}
-a li	{
-	color: #FFFFFF;
-	}
 button:not li{
 	font-size: 12px;
 	height: 20px;
@@ -100,9 +97,9 @@ button:not li{
 	}
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
-    width: 200px;
+    width: auto;
     background-color: #f1f1f1;
 }
 
@@ -116,12 +113,12 @@ li a {
 li a.active {
     	background-color: #4CAF50;
 	text-decoration: line-through;
-    	color: white;
+    	color: #FFFFFF;
 }
 
 li a:hover:not(.active) {
     	background-color: #555;
-    	color: white;
+    	color: #FFFFFF;
 }
 /*	Classes:	*/
 .active {
