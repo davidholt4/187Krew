@@ -15,7 +15,7 @@ header	{
 	display: block;
 	margin: auto;
 	}
-nav:not li	{
+nav	{
 	display: block;
 	margin: auto;
 	max-width: 400px;
@@ -83,6 +83,9 @@ a:visited:not(li)	{
 	}
 a:hover:not(li)	{
 	text-decoration: underline;
+	}
+a li	{
+	color: #FFFFFF;
 	}
 button:not li{
 	font-size: 12px;
