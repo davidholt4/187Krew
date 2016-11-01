@@ -18,6 +18,8 @@ header	{
 nav	{
 	display: block;
 	margin: auto;
+	max-width: 400px;
+	min-width: 400px;
 	width: 400px;
 	}
 main	{
@@ -90,22 +92,28 @@ button	{
 	}
 ul {
     	list-style-type: none;
+	max-width: 400px;
+	min-width: 400px;
 	width: 400px;
 	display: block;
     	margin: auto;
-    	padding: 40px;
+    	padding: 0px;
     	background-color: #f1f1f1;
     	border: 1px solid #555;
 }
 
 li a {
     	color: #000;
+	max-width: 400px;
+	min-width: 400px;
 	width: 400px;
     	/*padding: 8px 16px;*/
     	text-decoration: none;
 }
 
 li {
+	max-width: 400px;
+	min-width: 400px;
 	width: 400px;
     	text-align: center;
     	border-bottom: 1px solid #555;
