@@ -72,15 +72,15 @@ img	{
 a:not(nav)	{
 	font-family: "Lucida Console", Monaco, monospace;
 	}
-a:link:not li	{
+a:link:not(nav)	{
 	color: #0000ff;
 	text-decoration: none;
 	}
-a:visited:not(li)	{ 
+a:visited:not(nav)	{ 
     	color: #8585ad;
 	text-decoration: none;
 	}
-a:hover:not(li)	{
+a:hover:not(nav)	{
 	text-decoration: underline;
 	}
 button:not li{
