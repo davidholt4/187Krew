@@ -21,6 +21,8 @@ nav	{
 	max-width: 2000px;
 	min-width: 400px;
 	width: auto;
+	text-decoration: none;
+	color: black;
 	}
 main	{
 	display: block;
