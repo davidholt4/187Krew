@@ -125,6 +125,8 @@ li a:hover:not(.active) {
 /*	Classes:	*/
 .active {
     	background-color: #4CAF50;
+	font-family: 'Droid Sans', arial, serif;
+	color:#FFFFFF;
 	}
 .code	{
 	font-family: "Courier New", Courier, monospace;
@@ -136,6 +138,5 @@ li a:hover:not(.active) {
 .nav	{
 	color: #000000;
 	font-family: 'Droid Sans', arial, serif;
-	font-size: 25%;
 	}
 </style>
