@@ -69,7 +69,7 @@ img	{
 	margin: auto;
 	}
 /*	Navigational Stuff:	*/
-a:not li	{
+a:not(nav)	{
 	font-family: "Lucida Console", Monaco, monospace;
 	}
 a:link:not li	{
