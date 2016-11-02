@@ -74,6 +74,7 @@ img	{
 a:not(.nav)	{
 	font-family: "Lucida Console", Monaco, monospace;
 	}
+
 a:link:not(.nav)	{
 	color: #0000ff;
 	text-decoration: none;
@@ -134,5 +135,7 @@ li a:hover:not(.active) {
 	}
 .nav	{
 	color: #000000;
+	font-family: 'Droid Sans', arial, serif;
+	font-size: 25%;
 	}
 </style>
