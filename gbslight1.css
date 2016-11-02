@@ -126,4 +126,8 @@ li a:hover:not(.active) {
 .code	{
 	font-family: "Courier New", Courier, monospace;
 	}
+.instagram-media	{
+	display: block;
+	margin: auto;
+	}
 </style>
