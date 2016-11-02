@@ -3,6 +3,12 @@
 /*	GBS Light 1	*/
 /*	   V1.2		*/
 /*----------------------*/
+/*	Imports		*/
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Eczar');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+@import url('https://fonts.googleapis.com/css?family=VT323');
 /*	Misc Tags:	*/
 body	{
 	background: linear-gradient(to right, #999999, ##e2e2e2); /*IE support*/
@@ -36,34 +42,40 @@ footer	{
 h1	{
 	color: #000000;
 	text-align: center;
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: 'Lobster', cursive;
 	font-size: 400%;
 	}
 h2	{
 	color: #00ffbf;
-	text-align: center;	font-size: 250%;
+	text-align: center;	
+	font-size: 250%;
+	font-family: 'Permanent Marker', cursive;
 	}
 h3	{
 	color: #00fc9b;
 	font-size: 175%;
+	font-family: 'Permanent Marker', cursive;
  	}
 h4	{
 	color: #00ddc3;
 	font-size: 138%;
+	font-family: 'Permanent Marker', cursive;
 	}
  h5	{
 	color: #00d87e;
 	font-size: 119%;
+	 font-family: 'Permanent Marker', cursive;
 	}
 h6	{
 	color: #00ed62;
 	font-size: 109%;
+	font-family: 'Permanent Marker', cursive;
 	}
 p:not li{
 	text-indent: 25px;
 	text-align: justify;
 	color: #000000;
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-family: 'Eczar', serif;
 	}
 /*	Graphics:	*/
 img	{
@@ -125,11 +137,11 @@ li a:hover:not(.active) {
 /*	Classes:	*/
 .active {
     	background-color: #4CAF50;
-	font-family: 'Droid Sans', arial, serif;
+	font-family: 'Aldrich', sans-serif;
 	color:#FFFFFF;
 	}
 .code	{
-	font-family: "Courier New", Courier, monospace;
+	font-family: 'VT323', monospace;
 	}
 .instagram-media	{
 	display: block;
@@ -137,6 +149,6 @@ li a:hover:not(.active) {
 	}
 .nav	{
 	color: #000000;
-	font-family: 'Droid Sans', arial, serif;
+	font-family: 'Aldrich', sans-serif;
 	}
 </style>
