@@ -71,21 +71,21 @@ img	{
 	margin: auto;
 	}
 /*	Navigational Stuff:	*/
-a:not(nav)	{
+a:not(.nav)	{
 	font-family: "Lucida Console", Monaco, monospace;
 	}
-a:link:not(nav)	{
+a:link:not(.nav)	{
 	color: #0000ff;
 	text-decoration: none;
 	}
-a:visited:not(nav)	{ 
+a:visited:not(.nav)	{ 
     	color: #8585ad;
 	text-decoration: none;
 	}
-a:hover:not(nav)	{
+a:hover:not(.nav)	{
 	text-decoration: underline;
 	}
-button:not li{
+button:not(.nav){
 	font-size: 12px;
 	height: 20px;
 	width: 126px;
@@ -131,5 +131,8 @@ li a:hover:not(.active) {
 .instagram-media	{
 	display: block;
 	margin: auto;
+	}
+.nav	{
+	color: #FFFFFF;
 	}
 </style>
