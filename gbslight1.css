@@ -10,9 +10,10 @@
 @import url('https://fonts.googleapis.com/css?family=Aldrich');
 @import url('https://fonts.googleapis.com/css?family=VT323');
 /*	Misc Tags:	*/
-body	{
-	background: linear-gradient(to right, #999999, ##e2e2e2); /*IE support*/
-	background: -webkit-linear-gradient(to right, #999999, ##e2e2e2); /*Chrome support*/
+body	{/*
+	background: linear-gradient(to right, #999999, ##e2e2e2); 
+	background: -webkit-linear-gradient(to right, #999999, ##e2e2e2); */
+	background-image: url(https://c2.staticflickr.com/8/7038/6941345527_c5a180c6b8_b.jpg);
 	}
 header	{
 	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
