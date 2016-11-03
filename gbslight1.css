@@ -159,10 +159,11 @@ li a:hover:not(.active) {
 	font-family: 'Aldrich', sans-serif;
 	}
 .speaker	{
-	background-image: url(https://pixabay.com/static/uploads/photo/2013/07/13/09/37/loudspeaker-155807_960_720.png);
+	background-image: url(https://c1.staticflickr.com/3/2779/4226650934_931b81dd7f_b.jpg);
+	opacity: 0.2;
 	}
 #speaker{
 	background-image: url(https://c1.staticflickr.com/3/2779/4226650934_931b81dd7f_b.jpg);
-	opacity: 0.5;
+	opacity: 0.2;
 	}
 </style>
