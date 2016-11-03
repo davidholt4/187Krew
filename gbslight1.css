@@ -13,7 +13,6 @@
 body	{/*
 	background: linear-gradient(to right, #999999, ##e2e2e2); 
 	background: -webkit-linear-gradient(to right, #999999, ##e2e2e2); */
-	background-image: url(https://pixabay.com/static/uploads/photo/2013/07/13/10/14/speaker-156844_960_720.png);
 	}
 header	{
 	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
@@ -159,5 +158,8 @@ li a:hover:not(.active) {
 .nav	{
 	color: #000000;
 	font-family: 'Aldrich', sans-serif;
+	}
+.body	{
+	background-image: url(https://pixabay.com/static/uploads/photo/2013/07/13/09/37/loudspeaker-155807_960_720.png);
 	}
 </style>
