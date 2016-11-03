@@ -158,12 +158,8 @@ li a:hover:not(.active) {
 	color: #000000;
 	font-family: 'Aldrich', sans-serif;
 	}
-.speaker	{
-	background-image: url(https://c1.staticflickr.com/3/2779/4226650934_931b81dd7f_b.jpg);
-	opacity: 0.2;
-	}
 #speaker{
-	background-image: url(https://c1.staticflickr.com/3/2779/4226650934_931b81dd7f_b.jpg);
-	opacity: 0.2;
+	background-color: gray;/*
+	background-image: url(https://c1.staticflickr.com/3/2779/4226650934_931b81dd7f_b.jpg);*/
 	}
 </style>
