@@ -13,7 +13,7 @@
 body	{/*
 	background: linear-gradient(to right, #999999, ##e2e2e2); 
 	background: -webkit-linear-gradient(to right, #999999, ##e2e2e2); */
-	background-image: url(https://c2.staticflickr.com/8/7038/6941345527_c5a180c6b8_b.jpg);
+	background-image: url(https://pixabay.com/static/uploads/photo/2013/07/13/10/14/speaker-156844_960_720.png);
 	}
 header	{
 	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
@@ -30,6 +30,7 @@ nav	{
 	width: auto;
 	text-decoration: none;
 	color: black;
+	background-color: #FFFFFF;
 	}
 main	{
 	display: block;
@@ -45,38 +46,45 @@ h1	{
 	text-align: center;
 	font-family: 'Lobster', cursive;
 	font-size: 400%;
+	background-color: #FFFFFF;
 	}
 h2	{
 	color: #00ffbf;
 	text-align: center;	
 	font-size: 250%;
 	font-family: 'Permanent Marker', cursive;
+	background-color: #FFFFFF;
 	}
 h3	{
 	color: #00fc9b;
 	font-size: 175%;
 	font-family: 'Permanent Marker', cursive;
+	background-color: #FFFFFF;
  	}
 h4	{
 	color: #00ddc3;
 	font-size: 138%;
 	font-family: 'Permanent Marker', cursive;
+	background-color: #FFFFFF;
 	}
  h5	{
 	color: #00d87e;
 	font-size: 119%;
 	 font-family: 'Permanent Marker', cursive;
+	 background-color: #FFFFFF;
 	}
 h6	{
 	color: #00ed62;
 	font-size: 109%;
 	font-family: 'Permanent Marker', cursive;
+	background-color: #FFFFFF;
 	}
 p:not li{
 	text-indent: 25px;
 	text-align: justify;
 	color: #000000;
 	font-family: 'Eczar', serif;
+	background-color: #FFFFFF;
 	}
 /*	Graphics:	*/
 img	{
