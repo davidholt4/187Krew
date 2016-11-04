@@ -46,31 +46,38 @@ h1	{
 	text-align: center;
 	font-family: 'Lobster', cursive;
 	font-size: 400%;
+	text-shadow: 2px 2px 5px #000000;
 	}
 h2	{
 	color: #00ffbf;
 	text-align: center;	
 	font-size: 250%;
 	font-family: 'Permanent Marker', cursive;
+	text-shadow: 2px 2px 5px #000000;
 	}
 h3	{
 	color: #00fc9b;
 	font-size: 175%;
 	font-family: 'Permanent Marker', cursive;
+	text-shadow: 2px 2px 5px #000000;
  	}
 h4	{
 	color: #00ddc3;
 	font-size: 138%;
 	font-family: 'Permanent Marker', cursive;
+	text-shadow: 2px 2px 5px #000000;
 	}
  h5	{
 	color: #00d87e;
 	font-size: 119%;
-	 font-family: 'Permanent Marker', cursive;	}
+	 font-family: 'Permanent Marker', cursive;	
+	 text-shadow: 2px 2px 5px #000000;
+	}
 h6	{
 	color: #00ed62;
 	font-size: 109%;
 	font-family: 'Permanent Marker', cursive;
+	text-shadow: 2px 2px 5px #000000;
 	}
 p:not li{
 	text-indent: 25px;
