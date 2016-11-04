@@ -51,7 +51,6 @@ h2	{
 	text-align: center;	
 	font-size: 250%;
 	font-family: 'Permanent Marker', cursive;
-	background-color: #FFFFFF;
 	}
 h3	{
 	color: #00fc9b;
@@ -63,19 +62,15 @@ h4	{
 	color: #00ddc3;
 	font-size: 138%;
 	font-family: 'Permanent Marker', cursive;
-	background-color: #FFFFFF;
 	}
  h5	{
 	color: #00d87e;
 	font-size: 119%;
-	 font-family: 'Permanent Marker', cursive;
-	 background-color: #FFFFFF;
-	}
+	 font-family: 'Permanent Marker', cursive;	}
 h6	{
 	color: #00ed62;
 	font-size: 109%;
 	font-family: 'Permanent Marker', cursive;
-	background-color: #FFFFFF;
 	}
 p:not li{
 	text-indent: 25px;
@@ -160,5 +155,5 @@ li a:hover:not(.active) {
 	}
 #speaker{
 	background-color: #FFFFFF;
-	background-image: url(http://2.bp.blogspot.com/-qF7X0he3Yto/T-BYOBryG8I/AAAAAAAAB_o/nDtgPjSju-8/s1600/light_background_with_colorful_spots.jpg);
+	background-image: url(https://4.bp.blogspot.com/-WjdfVcDAuv4/U_Bm-bWHcuI/AAAAAAAAGdk/jHkG35om5uA/s220/gray-textile-background.jpg);
 	}
