@@ -153,6 +153,10 @@ li a:hover:not(.active) {
 	color: #000000;
 	font-family: 'Aldrich', sans-serif;
 	}
-#speaker{
-	background-color: #FFFFFF;
+.speaker{
+	background-image: url(https://4.bp.blogspot.com/-WjdfVcDAuv4/U_Bm-bWHcuI/AAAAAAAAGdk/jHkG35om5uA/s220/gray-textile-background.jpg);
+
 	}
+/*#speaker{
+	background-color: #FFFFFF;
+	}*/
