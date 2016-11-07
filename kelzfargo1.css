@@ -21,33 +21,36 @@ h1	{
 	text-align: center;
 	font-family: 'Lobster', cursive;
 	font-size: 400%;
-	text-shadow: 6px 6px 6px #000000;
+	text-shadow: 6px 6px 6px #FFFFFF;
 	}
 h2	{
 	text-align: center;	
 	font-size: 250%;
 	font-family: 'Permanent Marker', cursive;
-	text-shadow: 5px 5px 5px #000000;
+	text-shadow: 5px 5px 5px #FFFFFF;
 	}
 h3	{
 	font-size: 175%;
 	font-family: 'Permanent Marker', cursive;
-	text-shadow: 4px 4px 4px #000000;
+	text-shadow: 4px 4px 4px #FFFFFF;
  	}
 h4	{
 	font-size: 138%;
 	font-family: 'Permanent Marker', cursive;
-	text-shadow: 3px 3px 3px #000000;
+	text-shadow: 3px 3px 3px #FFFFFF;
 	}
  h5	{
 	font-size: 119%;
 	 font-family: 'Permanent Marker', cursive;	
-	 text-shadow: 2px 2px 2px #000000;
+	 text-shadow: 2px 2px 2px #FFFFFF;
 	}
 h6	{
 	font-size: 109%;
 	font-family: 'Permanent Marker', cursive;
-	text-shadow: 1px 1px 1px #000000;
+	text-shadow: 1px 1px 1px #FFFFFF;
+	}
+p	{
+	color: #FFFFFF;
 	}
 #all	{
 	display: block;
@@ -67,7 +70,7 @@ h6	{
 	text-decoration: none;
         }
 .heading{
-	color: #FFFFFF;
+	color: #ff0000;
 	}
 li a	{
 	display: block;
