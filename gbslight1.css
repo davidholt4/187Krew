@@ -13,7 +13,7 @@
 body	{/*
 	background: linear-gradient(to right, #999999, ##e2e2e2); 
 	background: -webkit-linear-gradient(to right, #999999, ##e2e2e2); */
-	background-color: url(https://4.bp.blogspot.com/-WjdfVcDAuv4/U_Bm-bWHcuI/AAAAAAAAGdk/jHkG35om5uA/s220/gray-textile-background.jpg);
+	background-image: url(https://4.bp.blogspot.com/-WjdfVcDAuv4/U_Bm-bWHcuI/AAAAAAAAGdk/jHkG35om5uA/s220/gray-textile-background.jpg);
 	}
 header	{
 	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
