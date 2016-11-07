@@ -1,0 +1,14 @@
+.all	{
+	background-image:;
+	}
+.navbar {
+        color: #000000;
+	font-family: 'Aldrich', sans-serif;
+	text-decoration: none;
+        }
+li a	{
+	display: block;
+	color: #000;
+    	padding: 1%;
+    	text-decoration: none;
+	}
