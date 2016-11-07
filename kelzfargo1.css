@@ -1,5 +1,13 @@
 .all	{
-	background-image:;
+	display: block;
+	margin: auto;
+	max-width: 2000px;
+	min-width: 1px;
+	width: auto;
+	text-decoration: none;
+	color: black;
+	background-color: #FFFFFF;
+	background-image: url(https://i3wbra.bl3302.livefilestore.com/y3m0hbvZHa_MiB9ORPmJs8lPbLXI8IEd6p51dy4Zi5OjCgvxA8AatpPb3oJEkQeYVYuLhwlAI-y-YhQRhLS3K2amF397ClORfA6QRUzePEnUpqevasPrpc8h1L1EkAH2U6_vFZPFusSA-FfVzi5SjG9__z_IFJFWMdaQLanwRWp2yc/Art1forsite.jpg?download&psid=1);
 	}
 .navbar {
         color: #000000;
