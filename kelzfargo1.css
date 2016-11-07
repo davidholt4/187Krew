@@ -1,6 +1,11 @@
+/*	Imports		*/
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Eczar');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+@import url('https://fonts.googleapis.com/css?family=VT323');
 header	{
-	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
-	background: -webkit-linear-gradient(to right, #00ffbf, #00faff); /*Chrome support*/
+	background-color: #000000;
 	padding: 15px;
 	display: block;
 	margin: auto;
