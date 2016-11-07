@@ -39,7 +39,7 @@ h4	{
 	font-family: 'Permanent Marker', cursive;
 	text-shadow: 3px 3px 3px #FFFFFF;
 	}
- h5	{
+h5	{
 	font-size: 119%;
 	 font-family: 'Permanent Marker', cursive;	
 	 text-shadow: 2px 2px 2px #FFFFFF;
@@ -74,7 +74,8 @@ p	{
 	}
 li a	{
 	display: block;
-	color: #000;
+	color: #FFFFFF;
     	padding: 1%;
     	text-decoration: none;
+	background-color: #808080;
 	}
