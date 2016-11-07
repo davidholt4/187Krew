@@ -89,5 +89,6 @@ li a	{
 	border: 2px solid #000000;
 	}
 li a:hover	{
-	color: #ff0000;
+	color: #FFFFFF;
+	text-shadow: 3px 3px 3px #ff0000;
 	}
