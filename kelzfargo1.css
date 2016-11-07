@@ -1,3 +1,54 @@
+header	{
+	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
+	background: -webkit-linear-gradient(to right, #00ffbf, #00faff); /*Chrome support*/
+	padding: 15px;
+	display: block;
+	margin: auto;
+	}
+nav	{
+	display: block;
+	margin: auto;
+	max-width: 2000px;
+	min-width: 1px;
+	width: auto;
+	text-decoration: none;
+	}
+footer	{
+	display: block;
+	margin: auto;
+	}
+h1	{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 400%;
+	text-shadow: 6px 6px 6px #000000;
+	}
+h2	{
+	text-align: center;	
+	font-size: 250%;
+	font-family: 'Permanent Marker', cursive;
+	text-shadow: 5px 5px 5px #000000;
+	}
+h3	{
+	font-size: 175%;
+	font-family: 'Permanent Marker', cursive;
+	text-shadow: 4px 4px 4px #000000;
+ 	}
+h4	{
+	font-size: 138%;
+	font-family: 'Permanent Marker', cursive;
+	text-shadow: 3px 3px 3px #000000;
+	}
+ h5	{
+	font-size: 119%;
+	 font-family: 'Permanent Marker', cursive;	
+	 text-shadow: 2px 2px 2px #000000;
+	}
+h6	{
+	font-size: 109%;
+	font-family: 'Permanent Marker', cursive;
+	text-shadow: 1px 1px 1px #000000;
+	}
 #all	{
 	display: block;
 	margin: auto;
