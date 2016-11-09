@@ -82,11 +82,10 @@ h6	{
 	text-shadow: 0.5px 0.5px 5px #000000;
 	font-family: 'Lobster', cursive;
 	}
-p:not li{
+p	{
 	text-indent: 25px;
 	text-align: justify;
 	color: #000000;
-	background-color: #FFFFFF;
 	font-family: 'Kalam', cursive;
 	padding: 12px;
 	}
