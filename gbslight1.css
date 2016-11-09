@@ -96,18 +96,18 @@ a:not(.nav)	{
 	font-family: "Lucida Console", Monaco, monospace;
 	}
 
-a:link:not(.nav)	{
+a:link:not(.nav):not(.active)	{
 	color: #0000ff;
 	text-decoration: none;
 	}
-a:visited:not(.nav)	{ 
+a:visited:not(.nav):not(.active)	{ 
     	color: #8585ad;
 	text-decoration: none;
 	}
-a:hover:not(.nav)	{
+a:hover:not(.nav):not(.active)	{
 	text-decoration: underline;
 	}
-button:not(.nav){
+button:not(.nav):not(.active){
 	font-size: 12px;
 	height: 20px;
 	width: 126px;
@@ -142,8 +142,10 @@ li a.active {
 
 li a:hover:not(.active) {
     	background-color: #555;
-    	color: #FFFFFF;
 }
+li a:hover	{
+	text-shadow: 3px 3px 2px #000000;
+	}
 /*	Classes:	*/
 .active {
     	background-color: #4CAF50;
