@@ -55,31 +55,31 @@ h2	{
 	color: #00ffbf;
 	text-align: center;	
 	font-size: 250%;
-	text-shadow: 4p 4px 5px #000000;
+	text-shadow: 5p 4px 4px #000000;
 	font-family: 'Lobster', cursive;
 	}
 h3	{
 	color: #00fc9b;
 	font-size: 175%;
-	text-shadow: 3px 3px 5px #000000;
+	text-shadow: 5px 3px 3px #000000;
 	font-family: 'Lobster', cursive;
  	}
 h4	{
 	color: #00ddc3;
 	font-size: 138%;
-	text-shadow: 2px 2px 5px #000000;
+	text-shadow: 5px 2px 2px #000000;
 	font-family: 'Lobster', cursive;
 	}
  h5	{
 	color: #00d87e;
 	font-size: 119%;	
-	 text-shadow: 1px 1px 5px #000000;
+	 text-shadow: 5px 1px 1px #000000;
 	 font-family: 'Lobster', cursive;
 	}
 h6	{
 	color: #00ed62;
 	font-size: 109%;
-	text-shadow: 0.5px 0.5px 5px #000000;
+	text-shadow: 5px 0.5px 0.5px #000000;
 	font-family: 'Lobster', cursive;
 	}
 p	{
@@ -145,7 +145,7 @@ li a:hover:not(.active) {
     	background-color: #555;
 }
 li a:hover	{
-	text-shadow: 2px 2px 5px ##ff0000;
+	text-shadow: 5px 2px 2px #ff0000;
 	text-decoration: none;
 	}
 /*	Classes:	*/
