@@ -92,7 +92,8 @@ img	{
 	margin: auto;
 	}
 /*	Navigational Stuff:	*/
-a:not(.nav)	{
+a	{
+	text-decoration: none;
 	}
 
 a:link:not(.nav):not(.active)	{
