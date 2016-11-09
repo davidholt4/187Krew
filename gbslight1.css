@@ -4,11 +4,14 @@
 /*	   V1.2		*/
 /*----------------------*/
 /*	Imports		*/
-@import url('https://fonts.googleapis.com/css?family=Lobster');
-@import url('https://fonts.googleapis.com/css?family=Eczar');
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
-@import url('https://fonts.googleapis.com/css?family=Aldrich');
-@import url('https://fonts.googleapis.com/css?family=VT323');
+	@import url('https://fonts.googleapis.com/css?family=Lobster');
+	@import url('https://fonts.googleapis.com/css?family=Eczar');
+	@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+	@import url('https://fonts.googleapis.com/css?family=Aldrich');
+	@import url('https://fonts.googleapis.com/css?family=VT323');
+	@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+	@import url('https://fonts.googleapis.com/css?family=Kalam');
+	@import url('https://fonts.googleapis.com/css?family=Yesteryear');
 /*	Misc Tags:	*/
 body	{/*
 	background: linear-gradient(to right, #999999, ##e2e2e2); 
@@ -54,30 +57,35 @@ h2	{
 	font-size: 250%;
 	font-family: 'Permanent Marker', cursive;
 	text-shadow: 4p 4px 5px #000000;
+	font-family: 'Lobster', cursive;
 	}
 h3	{
 	color: #00fc9b;
 	font-size: 175%;
 	font-family: 'Permanent Marker', cursive;
 	text-shadow: 3px 3px 5px #000000;
+	font-family: 'Lobster', cursive;
  	}
 h4	{
 	color: #00ddc3;
 	font-size: 138%;
 	font-family: 'Permanent Marker', cursive;
 	text-shadow: 2px 2px 5px #000000;
+	font-family: 'Lobster', cursive;
 	}
  h5	{
 	color: #00d87e;
 	font-size: 119%;
 	 font-family: 'Permanent Marker', cursive;	
 	 text-shadow: 1px 1px 5px #000000;
+	 font-family: 'Lobster', cursive;
 	}
 h6	{
 	color: #00ed62;
 	font-size: 109%;
 	font-family: 'Permanent Marker', cursive;
-	text-shadow: 5px 5px 5px #000000;
+	text-shadow: 0.5px 0.5px 5px #000000;
+	font-family: 'Lobster', cursive;
 	}
 p:not li{
 	text-indent: 25px;
