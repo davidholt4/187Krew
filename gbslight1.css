@@ -166,6 +166,7 @@ li a:hover	{
 .speaker{
 	background-image: url(https://4.bp.blogspot.com/-WjdfVcDAuv4/U_Bm-bWHcuI/AAAAAAAAGdk/jHkG35om5uA/s220/gray-textile-background.jpg);
 	}
-/*#speaker{
-	background-color: #FFFFFF;
-	}*/
+#center	{
+	display: block;
+	margin: auto;
+	}
