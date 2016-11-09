@@ -136,7 +136,8 @@ li a {
 li a.active {
     	background-color: #4CAF50;
 	text-decoration: line-through;
-    	color: #FFFFFF;
+	color: #000000;
+	font-family: 'Aldrich', sans-serif;
 }
 
 li a:hover:not(.active) {
@@ -147,7 +148,7 @@ li a:hover:not(.active) {
 .active {
     	background-color: #4CAF50;
 	font-family: 'Aldrich', sans-serif;
-	color:#FFFFFF;
+	color: #000000;
 	}
 .code	{
 	font-family: 'VT323', monospace;
