@@ -128,7 +128,7 @@ li a.active {
 li a:hover:not(.active) {
 	color: #e6a819;
     	background-color: #7B5B0E;
-	text-shadow: 2px 2px 2px #4CAF50;
+	text-shadow: 2px 2px 2px #000000;
 }
 li a:hover	{
 	text-decoration: none;
