@@ -13,14 +13,9 @@
 	@import url('https://fonts.googleapis.com/css?family=Kalam');
 	@import url('https://fonts.googleapis.com/css?family=Yesteryear');
 /*	Misc Tags:	*/
-body	{/*
-	background: linear-gradient(to right, #999999, ##e2e2e2); 
-	background: -webkit-linear-gradient(to right, #999999, ##e2e2e2); */
-	background-image: url(https://4.bp.blogspot.com/-WjdfVcDAuv4/U_Bm-bWHcuI/AAAAAAAAGdk/jHkG35om5uA/s220/gray-textile-background.jpg);
+body	{
 	}
 header	{
-	background: linear-gradient(to right, #00ffbf, #00faff); /*IE support*/
-	background: -webkit-linear-gradient(to right, #00ffbf, #00faff); /*Chrome support*/
 	padding: 15px;
 	display: block;
 	margin: auto;
@@ -52,32 +47,32 @@ h1	{
 	text-shadow: 5px 5px 5px #000000;
 	}
 h2	{
-	color: #00ffbf;
+	color: #C3910C;
 	text-align: center;	
 	font-size: 250%;
 	text-shadow: 5px 3px 3px #000000;
 	font-family: 'Lobster', cursive;
 	}
 h3	{
-	color: #00fc9b;
+	color: #C3910C;
 	font-size: 175%;
 	text-shadow: 5px 3px 3px #000000;
 	font-family: 'Lobster', cursive;
  	}
 h4	{
-	color: #00ddc3;
+	color: #C3910C;
 	font-size: 138%;
 	text-shadow: 5px 3px 3px #000000;
 	font-family: 'Lobster', cursive;
 	}
  h5	{
-	color: #00d87e;
+	color: #C3910C;
 	font-size: 119%;	
 	text-shadow: 5px 3px 3px #000000;
 	font-family: 'Lobster', cursive;
 	}
 h6	{
-	color: #00ed62;
+	color: #C3910C;
 	font-size: 109%;
 	text-shadow: 5px 3px 3px #000000;
 	font-family: 'Lobster', cursive;
@@ -85,7 +80,7 @@ h6	{
 p	{
 	text-indent: 25px;
 	text-align: justify;
-	color: #000000;
+	color: #443308;
 	font-family: 'Kalam', cursive;
 	padding: 12px;
 	}
