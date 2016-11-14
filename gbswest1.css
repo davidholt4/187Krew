@@ -28,7 +28,7 @@ nav	{
 	width: auto;
 	text-decoration: none;
 	color: black;
-	background-color: #FFFFFF;
+	background-color: #e6a819;
 	}
 main	{
 	display: block;
@@ -105,39 +105,28 @@ a:visited:not(.nav):not(.active)	{
 a:hover:not(.nav):not(.active)	{
 	text-decoration: underline;
 	}
-button:not(.nav):not(.active){
-	font-size: 12px;
-	height: 20px;
-	width: 126px;
-	border-radius: 8px;
-	text-align: center;
-	display: inline-block;
-	margin: auto;
-	text-decoration: none;
-	background-color: #00ffbf;
+ul 	{
+    	list-style-type: none;
+    	margin: auto;
+    	padding: 0;
+    	width: auto;
+    	background-color: #e6a819;
 	}
-ul {
-    list-style-type: none;
-    margin: auto;
-    padding: 0;
-    width: auto;
-    background-color: #f1f1f1;
-}
-
-li a {
-    display: block;
-    color: #000;
-    padding: 1%;
-    text-decoration: none;
-}
+li a 	{
+    	display: block;
+    	color: #7B5B0E;
+    	padding: 1%;
+    	text-decoration: none;
+	}
 
 li a.active {
-    	background-color: #4CAF50;
+    	background-color: #73540d;
 	font-family: 'Aldrich', sans-serif;
-}
+	}
 
 li a:hover:not(.active) {
-    	background-color: #555;
+	color: #e6a819;
+    	background-color: #7B5B0E;
 	text-shadow: 2px 2px 2px #4CAF50;
 }
 li a:hover	{
@@ -149,9 +138,6 @@ li a:hover	{
 	font-family: 'Aldrich', sans-serif;
 	color: #000000;
 	}
-.code	{
-	font-family: 'VT323', monospace;
-	}
 .instagram-media	{
 	display: block;
 	margin: auto;
@@ -159,9 +145,6 @@ li a:hover	{
 .nav	{
 	color: #000000;
 	font-family: 'Aldrich', sans-serif;
-	}
-.speaker{
-	background-image: url(https://4.bp.blogspot.com/-WjdfVcDAuv4/U_Bm-bWHcuI/AAAAAAAAGdk/jHkG35om5uA/s220/gray-textile-background.jpg);
 	}
 #center	{
 	display: block;
