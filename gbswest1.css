@@ -151,3 +151,9 @@ li a:hover	{
 	display: block;
 	margin: auto;
 	}
+.navp	{
+	text-align: center;
+	background-color: #4CAF50;
+	font-family: 'Aldrich', sans-serif;
+	color: #000000;
+	}
