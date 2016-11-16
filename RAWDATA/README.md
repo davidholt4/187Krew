@@ -10,7 +10,7 @@ URL: <a href="187k.tk">187K.tk</a>
 </p>
 <hr />
 <details>
-  <summary>Usage Info</summary>
+  <summary>Rights</summary>
   <p> - by myself. All Rights Reserved (I think?).</p>
   <p>All content and graphics on this web site are the property of me so don't steal it.</p>
 </details>
