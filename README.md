@@ -1,5 +1,4 @@
 # 187Krew
-<hr />
 Official page of B00tleggerz Beats and the whole 187Krew
 <hr />
 <details>
