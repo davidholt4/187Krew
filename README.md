@@ -1,6 +1,7 @@
 # 187Krew
-<p style="text-alighn=center">
+<p style="text-align:center">
 Official page of B00tleggerz Beats and the whole 187Krew
+<br />
 URL: <a href="187k.tk">187K.tk</a>
 </p>
 <hr />
