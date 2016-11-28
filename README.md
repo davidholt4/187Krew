@@ -1,5 +1,8 @@
 # 187Krew
+<p style="text-alighn=center">
 Official page of B00tleggerz Beats and the whole 187Krew
+URL: <a href="187k.tk">187K.tk</a>
+</p>
 <hr />
 <details>
 <summary>
@@ -14,10 +17,6 @@ Associated Artists
 </summary>
 <p>B00tleggerz has produced for upcoming artists such as Kelz Fargo and Slim Tio. </p>
 </details>
-<hr />
-<p style="text-alighn= center;">
-URL: <a href="187k.tk">187K.tk</a>
-</p>
 <hr />
 <details>
   <summary>Rights</summary>
