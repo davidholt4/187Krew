@@ -3,16 +3,11 @@
 
 <channel>
   <title>187Krew News</title>
-  <description>Test</description>
+  <description>This Is The 187Krew News</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>http://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>http://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Changed News Format</title>
+    <link></link>
+    <description>I changed the format of the news, but the old news can still be found <a href="">HERE</a> if you need it.</description>
   </item>
 </channel>
 </rss>
