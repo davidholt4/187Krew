@@ -114,9 +114,10 @@ ul 	{
 	}
 li a 	{
     	display: block;
-    	color: #fff;
+    	color: #111;
     	padding: 1%;
     	text-decoration: none;
+	background-color: #FFF;
 	}
 
 li a.active {
