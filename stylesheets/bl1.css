@@ -28,7 +28,6 @@ nav	{
 	min-width: 1px;
 	width: auto;
 	text-decoration: none;
-	color: black;
 	background-color: #111;
 	}
 main	{
@@ -48,7 +47,7 @@ h1	{
 	text-shadow: 5px 5px 5px #000000;
 	}
 h2	{
-	color: #00FF00;
+	color: #0000FF;
 	text-align: center;	
 	font-size: 250%;
 	text-shadow: 5px 3px 3px #000000;
