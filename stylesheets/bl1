@@ -1,0 +1,170 @@
+
+/*----------------------*/
+/*	B00tleggerz Beats 	*/
+/*	       V1.0		      */
+/*----------------------*/
+/*	Imports		*/
+	@import url('https://fonts.googleapis.com/css?family=Lobster');
+	@import url('https://fonts.googleapis.com/css?family=Eczar');
+	@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+	@import url('https://fonts.googleapis.com/css?family=Aldrich');
+	@import url('https://fonts.googleapis.com/css?family=VT323');
+	@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+	@import url('https://fonts.googleapis.com/css?family=Kalam');
+	@import url('https://fonts.googleapis.com/css?family=Yesteryear');
+/*	Misc Tags:	*/
+body	{
+	background-color: #F9DC50;
+	}
+header	{
+	padding: 15px;
+	display: block;
+	margin: auto;
+	}
+nav	{
+	display: block;
+	margin: auto;
+	max-width: 2000px;
+	min-width: 1px;
+	width: auto;
+	text-decoration: none;
+	color: black;
+	background-color: #e6a819;
+	}
+main	{
+	display: block;
+	margin: auto;
+	}
+footer	{
+	display: block;
+	margin: auto;
+	}
+/*	Text Formating:	*/
+h1	{
+	color: #AC7E0E;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 400%;
+	text-shadow: 5px 5px 5px #000000;
+	}
+h2	{
+	color: #C3910C;
+	text-align: center;	
+	font-size: 250%;
+	text-shadow: 5px 3px 3px #000000;
+	font-family: 'Lobster', cursive;
+	}
+h3	{
+	color: #C3910C;
+	font-size: 175%;
+	text-shadow: 5px 3px 3px #000000;
+	font-family: 'Lobster', cursive;
+ 	}
+h4	{
+	color: #C3910C;
+	font-size: 138%;
+	text-shadow: 5px 3px 3px #000000;
+	font-family: 'Lobster', cursive;
+	}
+ h5	{
+	color: #C3910C;
+	font-size: 119%;	
+	text-shadow: 5px 3px 3px #000000;
+	font-family: 'Lobster', cursive;
+	}
+h6	{
+	color: #C3910C;
+	font-size: 109%;
+	text-shadow: 5px 3px 3px #000000;
+	font-family: 'Lobster', cursive;
+	}
+p	{
+	text-indent: 25px;
+	text-align: justify;
+	color: #443308;
+	font-family: 'Kalam', cursive;
+	padding: 12px;
+	}
+/*	Graphics:	*/
+img	{
+	display: block;
+	margin: auto;
+	}
+/*	Navigational Stuff:	*/
+a	{
+	text-decoration: none;
+	}
+
+a:link:not(.nav):not(.active)	{
+	color: #0000ff;
+	text-decoration: none;
+	}
+a:visited:not(.nav):not(.active)	{ 
+    	color: #8585ad;
+	text-decoration: none;
+	}
+a:hover:not(.nav):not(.active)	{
+	text-decoration: underline;
+	}
+ul 	{
+    	list-style-type: none;
+    	margin: auto;
+    	padding: 0;
+    	width: auto;
+    	background-color: #e6a819;
+	}
+li a 	{
+    	display: block;
+    	color: #7B5B0E;
+    	padding: 1%;
+    	text-decoration: none;
+	}
+
+li a.active {
+    	background-color: #73540d;
+	font-family: 'Aldrich', sans-serif;
+	}
+
+li a:hover:not(.active) {
+	color: #e6a819;
+    	background-color: #7B5B0E;
+	text-shadow: 2px 2px 2px #000000;
+}
+li a:hover	{
+	text-decoration: none;
+	}
+/*	Classes:	*/
+.active {
+    	background-color: #4CAF50;
+	font-family: 'Aldrich', sans-serif;
+	color: #000000;
+	}
+.instagram-media	{
+	display: block;
+	margin: auto;
+	}
+.nav	{
+	color: #7B5B0E;
+	font-family: 'Aldrich', sans-serif;
+	}
+#center	{
+	display: block;
+	margin: auto;
+	}
+.navp	{
+	text-align: center;
+	background-color:;
+	font-family: 'Aldrich', sans-serif;
+	color: #000000;
+	padding: 0px;
+	}
+.sum	{
+	text-align: center;
+	color: #e6a819;
+    	background-color: #7B5B0E;
+	text-shadow: 2px 2px 2px #000000;
+	}
+.youtube{
+	display: block;
+	margin: auto;
+	}
