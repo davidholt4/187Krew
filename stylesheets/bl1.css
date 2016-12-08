@@ -110,11 +110,11 @@ ul 	{
     	margin: auto;
     	padding: 0;
     	width: auto;
-    	background-color: #e6a819;
+    	background-color: #111;
 	}
 li a 	{
     	display: block;
-    	color: #7B5B0E;
+    	color: #fff;
     	padding: 1%;
     	text-decoration: none;
 	}
