@@ -121,13 +121,14 @@ li a 	{
 	}
 
 li a.active {
-    	background-color: #73540d;
+    	background-color: #111;
 	font-family: 'Aldrich', sans-serif;
+	color: #fff;
 	}
 
 li a:hover:not(.active) {
-	color: #e6a819;
-    	background-color: #7B5B0E;
+	color: #FFF;
+    	background-color: #111;
 	text-shadow: 2px 2px 2px #000000;
 }
 li a:hover	{
