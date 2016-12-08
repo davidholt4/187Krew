@@ -14,7 +14,7 @@
 	@import url('https://fonts.googleapis.com/css?family=Yesteryear');
 /*	Misc Tags:	*/
 body	{
-	background-color: #F9DC50;
+	background-color: #FFF;
 	}
 header	{
 	padding: 15px;
@@ -29,7 +29,7 @@ nav	{
 	width: auto;
 	text-decoration: none;
 	color: black;
-	background-color: #e6a819;
+	background-color: #111;
 	}
 main	{
 	display: block;
