@@ -28,7 +28,6 @@ nav	{
 	min-width: 1px;
 	width: auto;
 	text-decoration: none;
-	background-color: #111;
 	}
 main	{
 	display: block;
@@ -110,7 +109,6 @@ ul 	{
     	margin: auto;
     	padding: 0;
     	width: auto;
-    	background-color: #111;
 	}
 li a 	{
     	display: block;
