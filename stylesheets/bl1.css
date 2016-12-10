@@ -112,14 +112,14 @@ ul 	{
 	}
 li a 	{
     	display: block;
-    	color: #111;
+    	color: #333;
     	padding: 1%;
     	text-decoration: none;
 	background-color: #FFF;
 	}
 
 li a.active {
-    	background-color: #111;
+    	background-color: #333;
 	font-family: 'Aldrich', sans-serif;
 	color: #fff;
 	}
