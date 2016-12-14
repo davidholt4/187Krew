@@ -21,6 +21,6 @@ Associated Artists
 <hr />
 <details>
   <summary>Rights</summary>
-  <p>by myself. All Rights Reserved (I think?). <br />
+  <p>by myself. All Rights Reserved (I hope. Intilectual property?). <br />
   All content and graphics on this web site are the property of me so don't steal it.</p>
 </details>
